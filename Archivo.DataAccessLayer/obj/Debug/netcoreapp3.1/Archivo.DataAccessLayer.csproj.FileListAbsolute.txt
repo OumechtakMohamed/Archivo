@@ -1,0 +1,10 @@
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\bin\Debug\netcoreapp3.1\Archivo.DataAccessLayer.deps.json
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\bin\Debug\netcoreapp3.1\Archivo.DataAccessLayer.dll
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\bin\Debug\netcoreapp3.1\Archivo.DataAccessLayer.pdb
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.AssemblyInfo.cs
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.dll
+C:\Users\m.ou-mechtak\source\repos\Archivo\Archivo.DataAccessLayer\obj\Debug\netcoreapp3.1\Archivo.DataAccessLayer.pdb
